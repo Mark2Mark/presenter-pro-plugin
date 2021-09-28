@@ -1,8 +1,8 @@
 <p align="center">
-<img width="200" height="200" src="https://github.com/Mark2Mark/presenter-plugin/blob/main/.images/{{IMAGE_NAME}}.jpg?raw=true"">
+<img width="200" height="200" src="https://github.com/Mark2Mark/presenter-pro-plugin/blob/main/.images/{{IMAGE_NAME}}.jpg?raw=true"">
 </p>
 
-# Presenter
+# Presenter Pro
 
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
@@ -19,7 +19,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 &nbsp;
 ## Todo
 
-- See [issues](https://github.com/Mark2Mark/presenter-plugin/issues)
+- See [issues](https://github.com/Mark2Mark/presenter-pro-plugin/issues)
 
 &nbsp;
 ## Changelog
@@ -80,5 +80,5 @@ If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reporte
 ---
 
 <p align="center">
-  <img src="https://github.com/Mark2Mark/presenter-plugin/blob/main/.images/{{IMAGE_NAME}}.jpg?raw=true">
+  <img src="https://github.com/Mark2Mark/presenter-pro-plugin/blob/main/.images/{{IMAGE_NAME}}.jpg?raw=true">
 </p>
