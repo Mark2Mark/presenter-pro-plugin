@@ -80,5 +80,5 @@ If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reporte
 ---
 
 <p align="center">
-  <img src="https://github.com/Mark2Mark/presenter-pro-plugin/blob/main/.images/{{IMAGE_NAME}}.jpg?raw=true">
+  <img src="https://github.com/Mark2Mark/presenter-pro-plugin/blob/main/.images/PluginManager-Presenter.jpg?raw=true">
 </p>
