@@ -12,9 +12,22 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 
 &nbsp;
-## Highlights
+## Features & Highlights
 
-- You can now download it directly from the Plugin Manager right inside of GlyphsApp.
+- You can now download it from the Plugin Manager right inside of GlyphsApp  
+- <kbd>✨NEW✨</kbd> Improved rendering
+    - cleaner display
+    - more balanced node styles
+- <kbd>✨NEW✨</kbd> "Sketch Mode": Make your presenter look like drawn with pencil on paper  
+- <kbd>✨NEW✨</kbd> Icons in the menu: find your settings quicker
+- Save to PNG and PDF with one click
+- Optional: Draw with shadow:
+    - Adjust the size
+    - Set shadow to solid or rasterised
+- Adjust Node size and select from 6 shape styles (or none)
+- Show or hide the outline
+- Draw with or without overlaps
+
 
 &nbsp;
 ## Todo
@@ -26,10 +39,9 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 <details><summary>Expand if you’re curious.</summary>
 
-### v2.0.0
+### v1.1.1
 
 - New in GlyphsApp's Plugin Manager
-- Add menu item "Open Registration Window"
 
 </details>
 
