@@ -21,6 +21,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - <kbd>✨NEW✨</kbd> "Sketch Mode": Make your presenter look like drawn with pencil on paper  
 - <kbd>✨NEW✨</kbd> Icons in the menu: find your settings quicker
 - Save to PNG and PDF with one click
+    - Export as square or portrait, perfect for Instagram
 - Optional: Draw with shadow:
     - Adjust the size
     - Set shadow to solid or rasterised
