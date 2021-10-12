@@ -29,6 +29,9 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Show or hide the outline
 - Draw with or without overlaps
 
+<img width="659" alt="Screenshot 2021-10-12 at 21 00 20" src="https://user-images.githubusercontent.com/5824595/137013812-d5406991-78ab-43b6-9d34-f6ccf7f8fa75.png">
+
+
 
 &nbsp;
 ## Todo
