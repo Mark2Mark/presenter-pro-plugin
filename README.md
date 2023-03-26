@@ -4,7 +4,13 @@
 
 # Presenter Pro
 
-The famous plugin now available for Glyphs 3 with piles of improvements and new features.
+Presenter is a game-changing plugin that allows you to effortlessly get presentable images of your amazing font’s glyphs within <a href="https://glyphsapp.com/extend" target="_blank" class="inside_link">GlyphsApp.</a>, saving you valuable time and effort with just a few clicks. With Presenter, there's no need for tedious exporting and launching of external applications like Indesign or Illustrator. You can easily adjust colors and nodes in just two simple steps, taking no more than 30 seconds.
+
+  <textmarker>Before Presenter,</textmarker> creating the perfect images for your social media platforms was a time-consuming and cumbersome process. You had to go through at least eight steps, including exporting your font, launching external applications, creating a new document, setting up the format, typing your glyphs, changing the color, drawing shapes for all nodes and handles, and finally exporting the image with the desired settings. This process took a minimum of five minutes.
+
+  <textmarker>But with Presenter,</textmarker> all of these steps are streamlined into two simple processes, saving you time and energy. You can adjust colors and nodes with ease, then export your image in seconds.
+  
+  With Presenter, you can finally sit back, relax, and enjoy your free time without worrying about the hassle of image creation. Try Presenter today and experience the convenience and efficiency of this groundbreaking plugin for yourself!
 
 💡 Minimum Glyphs version: build <code>3062</code>.
 
