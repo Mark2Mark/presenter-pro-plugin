@@ -4,6 +4,8 @@
 
 # Presenter Pro
 
+[![made with heart by Mark Frömberg](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-mark%20frömberg-F9DE64.svg?style=flat)](https://github.com/Mark2Mark)
+
 Presenter is a game-changing plugin that allows you to effortlessly get presentable images of your amazing font’s glyphs within <a href="https://glyphsapp.com/extend" target="_blank" class="inside_link">GlyphsApp.</a>, saving you valuable time and effort with just a few clicks. With Presenter, there's no need for tedious exporting and launching of external applications like Indesign or Illustrator. You can easily adjust colors and nodes in just two simple steps, taking no more than 30 seconds.
 
   <textmarker>Before Presenter,</textmarker> creating the perfect images for your social media platforms was a time-consuming and cumbersome process. You had to go through at least eight steps, including exporting your font, launching external applications, creating a new document, setting up the format, typing your glyphs, changing the color, drawing shapes for all nodes and handles, and finally exporting the image with the desired settings. This process took a minimum of five minutes.
