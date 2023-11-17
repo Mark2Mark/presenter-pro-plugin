@@ -4,21 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/AppIcon.icns</key>
-		<data>
-		Lp615Arc8N8DmGZtfhdFK3pUDio=
-		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		6VplaOKNaYBC/Dh//5Z+YTYnaD0=
-		</data>
-		<key>Resources/Info-PRO.plist</key>
-		<data>
-		dOxySa7PTkzxpoM23k7CJbk6dS8=
+		n1iPc6GX92EFV3SBSRZV6bWIwBI=
 		</data>
 		<key>Resources/MFGLabeledSlider.nib</key>
 		<data>
-		CBtVyajzzxd4OGIwp6DuKc3nQGo=
+		nq6iXKlG3VlASISla9lZVnAi3Ug=
+		</data>
+		<key>Resources/MFPresenterControlsViewController.nib</key>
+		<data>
+		d2t9JCbdMdhuz7lbyXZiL4qNUAs=
 		</data>
 		<key>Resources/PresenterIcons-Regular.otf</key>
 		<data>
@@ -27,32 +23,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/AppIcon.icns</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6pv0WB35ilpjFot4HqxsEUrCggrv9c3Y8ApXYelYUHM=
-			</data>
-		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KueTOefT3IYeuK8C55xdHgEzks/9cacVTdaDrqMpx0o=
-			</data>
-		</dict>
-		<key>Resources/Info-PRO.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eMGTrwyaxiGPuqa9UCiwrQGY3UpABzgrwVy4dC3RJr4=
+			7jZei11pXZeFXJKl6kO4WB00VdruAwY0XxPE3/JRYVw=
 			</data>
 		</dict>
 		<key>Resources/MFGLabeledSlider.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/ez99ub+V/ygtRUufBdO5hcqINyLNdpGVta9ujc+0DY=
+			7gjQUa/UOg6cp1ofeGi0xHHKSzNHvzIrV/WR/7Bj35s=
+			</data>
+		</dict>
+		<key>Resources/MFPresenterControlsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qWbAAddezOMtYGR+9HU4s8VNho+bMK8zQ4kKvARakvA=
 			</data>
 		</dict>
 		<key>Resources/PresenterIcons-Regular.otf</key>
